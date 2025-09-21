@@ -1,8 +1,8 @@
 // API配置
-const API_BASE_URL = 'https://xxxxx.xxxx.pp.ua';
+const API_BASE_URL = 'https://royal-sun-5edb.urmkhaos.workers.dev';
 
 // GitHub用户名将从API获取
-let GITHUB_USERNAME = 'IonRh'; // 默认值，将被API数据覆盖
+let GITHUB_USERNAME = 'cxykhaos'; // 默认值，将被API数据覆盖
 
 // 功能开关（由API控制）
 let FEATURE_ICE = false;   // 夏日空调
